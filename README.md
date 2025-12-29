@@ -2,6 +2,7 @@
 
 Uma calculadora simples desenvolvida em C# com Windows Forms, feita para estudo e prática de lógica de programação, manipulação de eventos e interface gráfica no Visual Studio.
 
+---------------------------------------------------------------------------------
 📌 Funcionalidades
 
 ➕ Adição
@@ -16,6 +17,7 @@ Uma calculadora simples desenvolvida em C# com Windows Forms, feita para estudo 
 
 📄 Janela Sobre com links de contato
 
+---------------------------------------------------------------------------------
 
 🛠️ Tecnologias Utilizadas
 
