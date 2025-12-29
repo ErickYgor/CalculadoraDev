@@ -1,0 +1,17 @@
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\bin\Debug\net9.0-windows\CalculadoraDev.exe
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\bin\Debug\net9.0-windows\CalculadoraDev.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\bin\Debug\net9.0-windows\CalculadoraDev.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\bin\Debug\net9.0-windows\CalculadoraDev.dll
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\bin\Debug\net9.0-windows\CalculadoraDev.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.Form1.resources
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.csproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.dll
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\refint\CalculadoraDev.dll
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\ref\CalculadoraDev.dll
+C:\Users\erick\OneDrive\Área de Trabalho\CalculadoraDev\CalculadoraDev\obj\Debug\net9.0-windows\CalculadoraDev.Sobre.resources
